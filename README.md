@@ -24,7 +24,7 @@ klog: Minimalist Blogging Website 💬
 1. **Installation**:
    - Clone this repository: 
    ```bash 
-   git clone https://github.com/yourusername/klog.git
+   git clone https://github.com/BinyamMamo/klog.git
    ```
    - Install Laravel dependencies: 
    ```bash
