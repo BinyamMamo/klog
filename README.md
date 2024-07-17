@@ -3,7 +3,7 @@ klog: Minimalist Blogging Website 💬
 </h1>
 
 <p align="center">
-<img src="resources/assets/images/logo.png" alt="Klog Logo" width="50%">
+<img src="public/assets/images/logo.png" alt="Klog Logo" width="50%">
 </p>
 
 **klog** is a simple and elegant blogging platform designed for those who appreciate minimalism. With a clean interface and a focus on essential features, **klog** provides an uncluttered space for sharing news, blogs, and thoughts.
